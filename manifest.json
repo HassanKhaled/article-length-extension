@@ -1,6 +1,6 @@
 {
-  "name": "Temp Extensions",
-  "description": "Template Chrome Extension",
+  "name": "Article Length Tool",
+  "description": "this tool enable the user to see the length of the article before reading, in term of minutes",
   "version": "1.0",
   "manifest_version": 3,
   "icons": {
